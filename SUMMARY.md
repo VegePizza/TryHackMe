@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Free THM labs list](README.md)
 * [Basic Pentesting](basic-pentesting.md)
